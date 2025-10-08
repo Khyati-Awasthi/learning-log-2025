@@ -14,7 +14,7 @@
 - Tomorrow: add the Amazon Clone folder and apply Tailwind to style it.
 
 ### *Day 2 – Amazon Clone (In Progress)*  
-*Date:* October 7, 2025  
+*Date:* October 7, 2025
 *Project:* Amazon Clone (Frontend)  
 *Tech Stack:* HTML, CSS, Flexbox  
 
@@ -40,3 +40,23 @@
 
 *Reflection:*  
 Progressed on the foundational layout and responsive structure of the Amazon Clone. Focused on writing cleaner, modular code and understanding how professional front-end workflows scale for complex websites.
+
+### Day-3 Tailwind Theory + JavaScript Start(No Laptop)
+
+*Date:* October 8, 2025
+
+**Status:** Couldn't code today due to unavailbility of laptop but continued learning theoretical resources from mobile phone
+
+**What I learned:**
+-Completed theoretical understanding of **Tailwind CSS**:
+-Utility-first approach.
+-Responsive breakpoints and modifiers.
+-How classes combine to create layouts quickly.
+-Started learning **JavaScript basics** through YouTube (variables,data types,console output and DOM intro).
+
+**Reflection:**
+Even without coding hands-on,I now understand how Tailwind streamlines design work nad why JavaScipt is essential for interactivity.
+
+**Next Steps:**
+- Apply Tailwind practicallywhen back on laptop
+- Continue JavaScript fundamentals(functions,arrays,loops)
