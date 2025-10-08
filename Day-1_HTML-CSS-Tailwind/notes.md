@@ -48,14 +48,14 @@ Progressed on the foundational layout and responsive structure of the Amazon Clo
 **Status:** Couldn't code today due to unavailbility of laptop but continued learning theoretical resources from mobile phone
 
 **What I learned:**
--Completed theoretical understanding of **Tailwind CSS**:
--Utility-first approach.
--Responsive breakpoints and modifiers.
--How classes combine to create layouts quickly.
--Started learning **JavaScript basics** through YouTube (variables,data types,console output and DOM intro).
+- Completed theoretical understanding of **Tailwind CSS**:
+- Utility-first approach.
+- Responsive breakpoints and modifiers.
+- How classes combine to create layouts quickly.
+- Started learning **JavaScript basics** through YouTube (variables,data types,console output and DOM intro).
 
 **Reflection:**
-Even without coding hands-on,I now understand how Tailwind streamlines design work nad why JavaScipt is essential for interactivity.
+Even without coding hands-on,I now understand how Tailwind streamlines design work and why JavaScipt is essential for interactivity.
 
 **Next Steps:**
 - Apply Tailwind practicallywhen back on laptop
